@@ -40,6 +40,9 @@ I am passionate about programming, very patient in my work and others, and alway
 With a bachelors degree in computer engineering, and plenty of work experience, i believe i can be a valuable asset for your company #company_name#.
 
 You can reach me any time via email at #email_address# or by cell phone at #cell_phone_number#.
+
+Yours sincerely
+#my_name#
 ```
 
 During processing the user inputs an answer for each token:
@@ -95,6 +98,9 @@ What should token email_address be replaced with?
 
 What should token cell_phone_number be replaced with?
 >012 34 567
+
+What should token my_name be replaced with?
+>Jonas Smith
 ```
 
 The user then selects a location and filename for the processed job application, which contents is:
@@ -114,6 +120,9 @@ I am passionate about programming, very patient in my work and others, and alway
 With a bachelors degree in computer engineering, and plenty of work experience, i believe i can be a valuable asset for your company Johnsons Concultants.
 
 You can reach me any time via email at some@email.com or by cell phone at 012 34 567.
+
+Yours sincerely
+Jonas Smith
 ```
 
 # Dependencies
