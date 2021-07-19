@@ -3,6 +3,11 @@ smart_job_application is a silly and quickly written mini-project that helps you
 
 It was written as an exercise to learn some of Rust's language features.
 
+# Motivation
+While writing job descriptions i often found it necessary to include or exclude information based on which job i searched. I also found that i have multiple qualifications for jobs, but which qualifications i should include in the job application depends on what job im applying for.
+
+So i created a project that lets you write a job application once, and be asked questions by the program that lets you tailor your job application for each specific job you're applying for.
+
 # How does it work?
 Its developed to work with two kinds of "tokens".
 
