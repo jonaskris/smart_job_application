@@ -1,0 +1,18 @@
+Dear #name_of_potential_employer#.
+
+I am writing to apply for the position as #job_position# as advertised on #where_did_you_find_the_job_advertisement#. As requested,
+i enclose a complete job application, my certification, my resume and references.
+
+#if_job_is_related_to_backend[The role is very appealing to me as i have a lot of experience working in backend systems.]#
+#if_job_is_related_to_frontend[The role is very appealing to me as i am very passionate about frontend development.]#
+
+#if_my_experience_as_electrician_is_relevant[I started my work-life as an electrician, and thus know a lot about electrical stuff as you mention is a requirement in the
+advertised position]#
+
+#if_my_experience_as_a_math_teacher_is_relevant[I taught mathemathics at the university of London where i got a lot of experience teaching concepts, which is why i think i fit the 
+job description perfectly.]#
+
+I am passionate about programming, very patient in my work and others, and always seek to bring a good mood to the workplace.
+With a bachelors degree in computer engineering, and plenty of work experience, i believe i can be a valuable asset for your company #company_name#.
+
+You can reach me any time via email at #email_address# or by cell phone at #cell_phone_number#.
